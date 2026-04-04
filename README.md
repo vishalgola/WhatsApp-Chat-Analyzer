@@ -36,7 +36,7 @@ This project helps visualize chat patterns and understand communication behavior
 
   * Visual representation of frequently used words
 
-* 😂 **Emoji Analysis**
+* 🫠 **Emoji Analysis**
 
   * Most frequently used emojis
 
