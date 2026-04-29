@@ -1,4 +1,4 @@
-
+**WhatsApp Chat Analyzer📊
 
 A **data analysis web application** built using **Python and Streamlit** that analyzes exported WhatsApp chats and provides insights such as message statistics, activity timelines, emoji usage, and user activity.
 
