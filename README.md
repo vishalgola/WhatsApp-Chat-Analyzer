@@ -6,7 +6,7 @@ This project helps visualize chat patterns and understand communication behavior
 
 ---
 
-# 🚀 Features
+
 
 * 📈 **Message Statistics**
 
