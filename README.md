@@ -42,6 +42,7 @@ This project helps visualize chat patterns and understand communication behavior
 
 ---
 
+# 🛠 Tech Stack
 
 * **Python**
 * **Streamlit**
