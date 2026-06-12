@@ -15,6 +15,7 @@ This project helps visualize chat patterns and understand communication behavior
   * Media messages
   * Links shared
 
+* 👥 **Most Active Users**
 
   * Identify who sends the most messages in group chats
 
