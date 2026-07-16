@@ -4,6 +4,7 @@ A **data analysis web application** built using **Python and Streamlit** that an
 
 This project helps visualize chat patterns and understand communication behavior in a WhatsApp conversation.
 
+---
 
 # 🚀 Features
 
