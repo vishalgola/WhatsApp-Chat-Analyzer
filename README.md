@@ -14,7 +14,6 @@ A **data analysis web application** built using **Python and Streamlit** that an
   * Media messages
   * Links shared
 
-* 👥 **Most Active Users**
 
   * Identify who sends the most messages in group chats
 
