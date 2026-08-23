@@ -5,6 +5,7 @@ A **data analysis web application** built using **Python and Streamlit** that an
 
 ---
 
+# 🚀 Features
 
 * 📈 **Message Statistics**
 
