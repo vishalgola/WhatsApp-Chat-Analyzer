@@ -4,7 +4,6 @@ A Python-based application that analyzes exported WhatsApp chat files to generat
 
 ---
 
-# 🚀 Features
 
 * 📈 **Message Statistics**
 
