@@ -1,3 +1,4 @@
+# 📊 WhatsApp Chat Analyzer
 
 A Python-based application that analyzes exported WhatsApp chat files to generate detailed statistics, activity timelines, word clouds, emoji breakdowns, and user engagement metrics.
 
